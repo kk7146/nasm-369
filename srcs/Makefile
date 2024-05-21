@@ -20,7 +20,8 @@ clean:
 
 fclean: clean
 	rm -f $(NAME)
+	rm -f result_test
+	rm -f result
 
 re: fclean all
-
 .PHONY: all clean fclean re $(NAME)
