@@ -1,2 +1,2 @@
 # nasm-369
-nasm project
+nasm project for macOS arm64. (linking x82-64)
